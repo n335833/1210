@@ -1,0 +1,22 @@
+body {
+  background-color:#333333;
+  background-image:url('https://fedoramagazine.org/wp-content/uploads/2016/10/skamath-HD-Wallpapers1.jpg');
+background-size:cover;
+  padding:0px;
+  margin:0px;
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-size:14px;
+	color:rgba(0,0,0,0.8);}
+
+.modal_panel {
+  background: #FFFFFF;
+  border: 1px solid #e5e5e5;
+  width: 288px;
+  min-height: 112px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 24px 48px rgba(0, 0, 0, 0.25), 0 2px 4px -2px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  padding: 16px;
